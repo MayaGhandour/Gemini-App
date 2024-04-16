@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gemini-App/static/css/main.b747b9e3.css",
+    "main.js": "/Gemini-App/static/js/main.3d4535e7.js",
+    "static/media/user_icon.png": "/Gemini-App/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/Gemini-App/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/Gemini-App/index.html",
+    "main.b747b9e3.css.map": "/Gemini-App/static/css/main.b747b9e3.css.map",
+    "main.3d4535e7.js.map": "/Gemini-App/static/js/main.3d4535e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b747b9e3.css",
+    "static/js/main.3d4535e7.js"
+  ]
+}
